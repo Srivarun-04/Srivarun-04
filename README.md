@@ -1,3 +1,40 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6366F1,100:7C3AED&height=180&section=header&text=Srivarun%20Manthena&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-2023--2027-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.6-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hyderabad%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br><br>
+
+<a href="https://srivarun-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/manthena-srivarun">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:manthenasrivarun@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Srivarun-04">
+  <img src="https://img.shields.io/badge/GitHub-Srivarun--04-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Srivarun-04&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Srivarun-04?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/Srivarun-04?style=for-the-badge&color=4C1D95&label=STARS&logo=github"/>
+
+</div>
+
 # 💫 About Me
 
 Hi, I'm **Srivarun Manthena**, a Computer Science Engineering student focused on **Artificial Intelligence, Software Engineering, and problem solving**.
@@ -225,29 +262,6 @@ An AI-powered next-word prediction system using N-gram models and NLP techniques
   <a href="https://github.com/Srivarun-04">
     <img src="https://img.shields.io/badge/GitHub-Srivarun--04-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-> Additional coding-platform profiles are not listed in the current resume.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srivarun-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivarun-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Srivarun-04&theme=dark&hide_border=false" height="180"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srivarun-04&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
