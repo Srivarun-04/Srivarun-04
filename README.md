@@ -5,28 +5,43 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;Building+AI-Powered+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 </a>
-
 <br><br>
 
+<!-- Academic & Location Badges -->
 <img src="https://img.shields.io/badge/B.Tech%20CSE-2023--2027-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-8.6-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hyderabad%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
-<a href="https://srivarun-portfolio.vercel.app/">
+<!-- Social Links -->
+<a href="https://srivarun-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itsvarun_04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manthena-srivarun)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthenasrivarun@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srivarun-04)
 
+<a href="https://linkedin.com/in/manthena-srivarun" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manthenasrivarun@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Srivarun-04" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/itsvarun_04" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br><br>
 
+<!-- GitHub Profile Metrics -->
 <img src="https://komarev.com/ghpvc/?username=Srivarun-04&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+
 <img src="https://img.shields.io/github/followers/Srivarun-04?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github"/>
+
 <img src="https://img.shields.io/github/stars/Srivarun-04?style=for-the-badge&color=4C1D95&label=STARS&logo=github"/>
 
 </div>
