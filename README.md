@@ -67,13 +67,18 @@ Hi, I'm **Srivarun Manthena**, a Computer Science Engineering student passionate
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Srivarun-04\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Srivarun-04\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srivarun-04\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srivarun-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivarun-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Srivarun-04&theme=dark&hide_border=false" height="180"/>
+</p>
 
 ### ✍️ Dev Quote:
 
-> **"First rule of programming: If it works don't touch it."** 😎
+> **"First Rule of Programming: If it works DON'T Touch It."** 😎
 
 ---
 
